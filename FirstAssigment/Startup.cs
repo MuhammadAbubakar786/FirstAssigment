@@ -13,6 +13,7 @@ using Microsoft.EntityFrameworkCore;
 using FirstAssigment.Data;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using FirstAssigment.Models;
 
 namespace FirstAssigment
 {
@@ -38,6 +39,10 @@ namespace FirstAssigment
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<First_AssigmentContext>(options =>
+         options.UseSqlServer(
+             Configuration.GetConnectionString("Connection")));
+
             services.AddDefaultIdentity<IdentityUser>()
                 .AddDefaultUI(UIFramework.Bootstrap4)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
