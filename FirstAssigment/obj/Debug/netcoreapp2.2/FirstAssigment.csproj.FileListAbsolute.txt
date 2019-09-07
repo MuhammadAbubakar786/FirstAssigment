@@ -32,3 +32,5 @@ C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\FirstAssigment\FirstAssi
 C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\FirstAssigment\FirstAssigment\obj\Debug\netcoreapp2.2\FirstAssigment.csproj.CopyComplete
 C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\FirstAssigment\FirstAssigment\obj\Debug\netcoreapp2.2\Razor\Views\Category\add_Category.g.cshtml.cs
 C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\FirstAssigment\FirstAssigment\obj\Debug\netcoreapp2.2\Razor\Views\Category\list_Category.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\FirstAssigment\FirstAssigment\obj\Debug\netcoreapp2.2\Razor\Views\Post\add_Post.g.cshtml.cs
+C:\Users\Mian Abubakar\source\repos\MuhammadAbubakar786\FirstAssigment\FirstAssigment\obj\Debug\netcoreapp2.2\Razor\Views\Post\list_Posts.g.cshtml.cs
